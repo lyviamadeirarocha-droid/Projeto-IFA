@@ -258,13 +258,13 @@ function trocarImagem(escolha) {
           urlNova = '';
           textoprincipal.innerText="Corpos celestes";
           texto.innerText="Corpos celestes são todos os objetos e matérias que existem no espaço sideral. Eles se dividem entre os que possuem luz própia, como as estrelas, e os que são iluminados por outras fontes, como planetas, luas e cometas.";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText=" ";
           break;
         case "2":
-          urlNova = 'cordosol.jfif';
-          textoprincipal.innerText="A verdadeira cor do SOL ";
-          texto.innerText="O Sol visto a olho nu no espaço é na verdade branco. A coloração amarela que vemos aqui na superfície da Terra é por causa da atmosfera da Terra.";
-          descrevefigura.innerText="Imagem do Sol na cor branca ";
+          urlNova = '';
+          textoprincipal.innerText="Estrelas";
+          texto.innerText="";
+          descrevefigura.innerText="";
           break;
         default:
           urlNova = 'acessibilidade.png';
