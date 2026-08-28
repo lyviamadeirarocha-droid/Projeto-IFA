@@ -257,7 +257,7 @@ function trocarImagem(escolha) {
         case "1":
           urlNova = '';
           textoprincipal.innerText="Corpos celestes";
-          texto.innerText="paragrafo";
+          texto.innerText="Corpos celestes são todos os objetos e matérias que existem no espaço sideral. Eles se dividem entre os que possuem luz própia, como as estrelas, e os que são iluminados por outras fontes, como planetas, luas e cometas.";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
           break;
         case "2":
