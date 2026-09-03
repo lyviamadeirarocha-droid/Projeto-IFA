@@ -255,7 +255,7 @@ function trocarImagem(escolha) {
     const imagemnova=document.getElementById('imagemPrincipal');
     switch(escolha){
         case "1":
-          urlNova = '';
+          urlNova = 'corpos-celestes-o-que-sao-definicao-caracteristicas-e-curiosidades-1.jpg';
           textoprincipal.innerText="Corpos celestes";
           texto.innerText="Corpos celestes são todos os objetos e matérias que existem no espaço sideral. Eles se dividem entre os que possuem luz própia, como as estrelas, e os que são iluminados por outras fontes, como planetas, luas e cometas.";
           descrevefigura.innerText=" ";
