@@ -263,13 +263,13 @@ function trocarImagem(escolha) {
         case "2":
           urlNova = '';
           textoprincipal.innerText="Estrelas";
-          texto.innerText="";
+          texto.innerText="São astros gigantes com luz própia que produzem calor por fusão nuclear, como o Sol.";
           descrevefigura.innerText="";
           break;
         default:
           urlNova = 'acessibilidade.png';
-          textoprincipal.innerText="O que é Acessibilidade?";
-          texto.innerText="        A acessibilidade digital permite que qualquer        pessoa utilize sistemas computacionais        independentemente de suas limitações.";
+          textoprincipal.innerText="Panetas";
+          texto.innerText="São corpos grandes sem luz própia que giram ao redor de uma estrela, a exemplo da terra.";
           descrevefigura.innerText="Figura 1 - Pessoa utilizando computador com tecnologia assistiva. ";
           break;
         }
